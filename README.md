@@ -1,1 +1,2 @@
-#THis is my first project 
+#THis is my first project
+This project is about learning how to use GitHub and creating a repository. I will be adding more files and content to this repository as I learn more about GitHub and version control. 
